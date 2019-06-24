@@ -1,4 +1,4 @@
-# QuantitativeFinance
+# Quantitative Finance
 A collection of my projects in Quantitative Finance
 
 
